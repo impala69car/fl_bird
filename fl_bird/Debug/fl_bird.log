@@ -1,0 +1,15 @@
+﻿Построение начато 11.09.2017 13:37:59.
+     1>Проект "D:\fl_bird\fl_bird\fl_bird.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\fl_bird\Debug\fl_bird.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\fl_bird\Debug\fl_bird.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\fl_bird\Debug\fl_bird.lib" /MACHINE:X86 Debug\bird.obj
+         Debug\game_2d.obj
+         Debug\main.obj
+         Debug\mainmenu.obj
+         Debug\wall.obj
+         LINK : не найден или не выполнена сборка D:\fl_bird\Debug\fl_bird.exe при последней инкрементной компоновке; выполняется полная компоновка
+         fl_bird.vcxproj -> D:\fl_bird\Debug\fl_bird.exe
+     1>Построение проекта "D:\fl_bird\fl_bird\fl_bird.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.52
