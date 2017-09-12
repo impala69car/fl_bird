@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fl_bird", "fl_bird\fl_bird.vcxproj", "{B998B014-9FB5-44F6-8276-C769A2C254C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B998B014-9FB5-44F6-8276-C769A2C254C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B998B014-9FB5-44F6-8276-C769A2C254C6}.Debug|Win32.Build.0 = Debug|Win32
+		{B998B014-9FB5-44F6-8276-C769A2C254C6}.Release|Win32.ActiveCfg = Release|Win32
+		{B998B014-9FB5-44F6-8276-C769A2C254C6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
